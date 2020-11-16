@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CampusProblemReport</string>
+    <string name="type_of_the_problem">Select the type of your problem:</string>
+    <string name="description_hint">Please describe your problem</string>
+    <string name="send_button">Send</string>
+    <string name="upload_button">Add Image</string>
+    <string name="new_problem">Report problem</string>
+    <string name="description_location">Location</string>
+    <string name="note">Leave a note with your image</string>
+    <string-array name="type">
+
+        <item>Information Technology</item>
+        <item>Electrical Issues</item>
+        <item>Building Maintenance</item>
+        <item>Security</item>
+
+
+    </string-array>
+</resources>

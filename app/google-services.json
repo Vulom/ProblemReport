@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599682998941",
+    "firebase_url": "https://campusproblemreport-f3028.firebaseio.com",
+    "project_id": "campusproblemreport-f3028",
+    "storage_bucket": "campusproblemreport-f3028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599682998941:android:730ca4b2321785c1fa2a74",
+        "android_client_info": {
+          "package_name": "com.example.campusproblemreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599682998941-dpicnrtrtjktgoqbdneb8q4ghbpnotla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campusproblemreport",
+            "certificate_hash": "226eb13cfdf07d98eb00a583bdf82be7c51f9ecc"
+          }
+        },
+        {
+          "client_id": "599682998941-aiajmip1u32kaj6f7g08vh2392usuc31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxf5CSNO356ROipPJ8jGtrFzG-f-AITtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599682998941-aiajmip1u32kaj6f7g08vh2392usuc31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
